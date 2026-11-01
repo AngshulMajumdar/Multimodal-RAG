@@ -1,0 +1,8 @@
+s....................................................                    [100%]
+=============================== warnings summary ===============================
+tests/test_space.py: 17 warnings
+  /workspace/scratch/bf433b1b1421/.venv/lib/python3.12/site-packages/gradio/routes.py:1368: StarletteDeprecationWarning: 'HTTP_422_UNPROCESSABLE_ENTITY' is deprecated. Use 'HTTP_422_UNPROCESSABLE_CONTENT' instead.
+    return await queue_join_helper(body, request, username)
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+52 passed, 1 skipped, 17 warnings in 75.38s (0:01:15)

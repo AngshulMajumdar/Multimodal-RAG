@@ -1,0 +1,31 @@
+GitHub repository and tutorial packaging checks
+Date: 2026-11-01
+
+Scope: technical README, all ten approved generated PNGs, GitHub Pages tutorial,
+Medium-compatible HTML/Markdown, repository metadata and source preservation.
+
+The running app's Python source is retained from the checked HF Space snapshot.
+The historical model/API test outputs remain in this directory.
+Current static and lightweight test outputs follow below.
+
+PASS: all 10 original chat-approved images match their SHA-256 hashes and dimensions.
+PASS: Pages and Medium HTML contain all 10 figures in order with alt text and original aspect ratios.
+PASS: local links/anchors resolve; Pages paths are project-relative; HF links are present.
+PASS: Medium export uses complete static article content and absolute image URLs; no tables/scripts/iframes.
+PASS: both Markdown articles contain 10 images; every application dependency is documented.
+NOTE: public Medium image URLs become reachable after publishing the configured Pages site.
+
+Lightweight CPU suite:
+....................                                                     [100%]
+20 passed, 1 deselected in 2.38s
+
+PASS: runtime source/requirements byte-identical to the checked HF snapshot.
+PASS: Python syntax compilation.
+PASS: all five tutorial exports rebuild deterministically.
+PASS: local HTTP serving of both articles, stylesheet and all ten original PNGs.
+
+No browser rendering or actual Medium import was performed in this packaging pass.
+Public GitHub/Pages creation is a separate publishing step; image URLs in the Medium edition target the configured future Pages deployment.
+
+Packaging correction: removed every dotfile and dotfolder, including the hidden workflow directory, ignore file and Pages marker.
+Pages uses a visible _config.yml and a plain-text article download. All ten original image hashes remain unchanged.

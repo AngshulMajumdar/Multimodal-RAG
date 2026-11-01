@@ -1,0 +1,3 @@
+PASS real 4B processor: text-only evidence
+PASS real 4B processor: two images, matching image tokens and vision grids
+Processor/tokenizer/config only; 4B model weights and GPU generation were not loaded.

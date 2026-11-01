@@ -1,0 +1,92 @@
+[
+  {
+    "number": 1,
+    "file": "01-overview.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "cb539b61b93d8c3f2a972b628a44995a3f2952691795e576154272a89bb0e129",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  },
+  {
+    "number": 2,
+    "file": "02-ingestion.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "6cfe2ee60fbcccb6c480da81dae63f5c8704bc1aca3f1b64a0d6d61b5789a55d",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  },
+  {
+    "number": 3,
+    "file": "03-ocr.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "ce3f51d6e882d8ccae0251d15c4df1e4b372a6bb808ca1bbf9317cf7a7033377",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  },
+  {
+    "number": 4,
+    "file": "04-chunking.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "27cfc4397ee19fd779e6da7f9acb0583477876f6b560ea6d9ca8ef23e4e907ef",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  },
+  {
+    "number": 5,
+    "file": "05-representations.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "dfeeec4adf9dcd96d19f1641c8c341dc5a185455590ebe7b2c8587ee5e036e86",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  },
+  {
+    "number": 6,
+    "file": "06-hybrid-retrieval.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "57fda459c82d9988276809aafecebb62658db35f1ddda018811f8f1b48398e35",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  },
+  {
+    "number": 7,
+    "file": "07-image-retrieval.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "7813562b4c56e43b15d1eaf6c2136ad8476d956bd0b5cd0a430030422af98a9a",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  },
+  {
+    "number": 8,
+    "file": "08-grounded-generation.png",
+    "width": 1672,
+    "height": 941,
+    "sha256": "29335cd288d4823b61805bccb2709d7544c55d8554ebe0c614b85251725dadd1",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  },
+  {
+    "number": 9,
+    "file": "09-gradio-zerogpu.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "c3e7455874f6d8a01fb084258981d176f093412bd0fe7125c6630b3f1c54b89a",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  },
+  {
+    "number": 10,
+    "file": "10-shared-models-separate-evidence.png",
+    "width": 1536,
+    "height": 1024,
+    "sha256": "1d0de23333ba5b9dc50b96e7d1ea6879bdd738b929b8758ce7cb7a7b28a7ae6e",
+    "origin": "image_gen; shown individually in this conversation",
+    "modified": false
+  }
+]

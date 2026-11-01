@@ -1,0 +1,4 @@
+# Keep Markdown source files from being converted by the Pages Jekyll pass.
+exclude:
+  - tutorial.md
+  - README.md

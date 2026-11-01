@@ -1,0 +1,2 @@
+# Optional local UI; not needed by the Gradio ZeroGPU Space.
+streamlit>=1.40,<2

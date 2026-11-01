@@ -1,0 +1,6 @@
+-r requirements.txt
+pytest
+matplotlib
+scikit-image
+wordllama
+gradio_client

@@ -1,0 +1,8 @@
+{
+  "source_space": "Angshul/Multimodal-RAG",
+  "source_url": "https://huggingface.co/spaces/Angshul/Multimodal-RAG",
+  "source_revision": "c42f4efc539290b87a9bf1b69dca34c3ca178f6a",
+  "runtime_observed": "RUNNING",
+  "checked_on": "2026-11-01",
+  "scope": "Runtime Python source preserved; GitHub documentation and packaging added."
+}
